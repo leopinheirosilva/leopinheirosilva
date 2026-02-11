@@ -24,5 +24,5 @@ Sou desenvolvedor Front‑End apaixonado por construir interfaces rápidas, aces
 
 ## 🚀 Um pouco mais sobre meu perfil!
 
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopinheirosilva)](https://github.com/leopinheirosilva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
