@@ -4,7 +4,7 @@
 
 Sou desenvolvedor Front‑End apaixonado por construir interfaces rápidas, acessíveis e com ótima experiência de usuário. Tenho foco em aplicações modernas com React e Next.js, e gosto de integrar front‑end com back‑ends robustos em Node.js e bancos Postgres.
 
-## Tech stack
+## 🛠 Tech stack
 
 ### 💻 Front‑end:
 
