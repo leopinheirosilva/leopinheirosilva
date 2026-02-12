@@ -24,6 +24,6 @@ Sou desenvolvedor Front‑End apaixonado por construir interfaces rápidas, aces
 
 ## 🚀 Um pouco mais sobre meu perfil!
 
-![Leonardo's GitHub Stats](https://githubcard.com/leopinheirosilva.svg?d=Q_-2Jtei)
+![Leonardo's GitHub Stats](https://githubcard.com/leopinheirosilva.svg?d=XpAAc1sO)
 
 
