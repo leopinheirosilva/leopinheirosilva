@@ -19,7 +19,6 @@ Sou desenvolvedor Front‑End apaixonado por construir interfaces rápidas, aces
 ### ⚙️ Back-end e Banco de Dados:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 ## 🚀 Um pouco mais sobre meu perfil!
